@@ -1,0 +1,49 @@
+h1{
+    font-family: Jakarta Sans, sans-serif;
+    font-size: 24pt;
+    color:#2d2b70;
+    text-align: center;
+    margin: 12px 0 0 0;
+    font-weight: bolder;
+}
+
+body{
+    background-color: mintcream;
+    background-repeat: no-repeat;
+}
+
+#Judul{
+    font-family: Jakarta Sans, sans-serif;
+    font-size: 16pt;
+    color:#2d2b70;
+    text-align: center;
+    margin: 0 0 20px 0;
+    font-weight: bold;
+}
+
+table{
+    display: inline-block;
+}
+
+#jdl{
+    color:#ffffff;
+    text-align: center;
+    font-family: Jakarta Sans, sans-serif;
+    font-size: 12pt;
+    font-weight: bold;
+}
+
+#loko{
+    font-family: Jakarta Sans, sans-serif;
+    font-size: 12pt;
+}
+
+#asal{
+    font-family: Jakarta Sans, sans-serif;
+    font-size: 12pt;
+}
+
+#tujuan{
+    font-family: Jakarta Sans, sans-serif;
+    font-size: 12pt;
+}
