@@ -1,4 +1,6 @@
-HTML Table (20230140029)
+HTML Table 
+Arya Bagas Saputra
+(20230140029)
 
 Tampilan Laman:
 ![Screenshot (445)](https://github.com/user-attachments/assets/b799f67f-ae1b-491d-b44a-b61cbe138146)
